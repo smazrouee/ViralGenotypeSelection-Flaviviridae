@@ -1,4 +1,4 @@
-# add patterns you want to ignore
+# add patterns to ignore
 # macOS system files
 .DS_Store
 .AppleDouble
