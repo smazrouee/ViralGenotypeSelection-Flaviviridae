@@ -1,1 +1,22 @@
 # add patterns you want to ignore
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment files (should be private!)
+.env
+
